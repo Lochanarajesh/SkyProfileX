@@ -1,0 +1,16 @@
+Passenger_ID,Name,Age,Gender,Source,Destination,Travel_Date,Class,Booking_Channel,Ticket_Price,Flight_Frequency
+101,John Doe,34,M,JFK,LHR,2023-10-15,Economy,App,450,2
+102,Jane Smith,28,F,LAX,HND,2023-10-16,Business,Website,1200,8
+103,Mike Johnson,45,M,ORD,CDG,2023-10-17,First,Agency,2500,12
+104,Alice Brown,50,F,JFK,SFO,2023-10-21,Economy,App,300,1
+105,Tom Wilson,22,M,LHR,DXB,2023-10-22,Economy,Website,600,3
+106,Sara Davis,35,F,SFO,JFK,2023-10-22,Business,App,800,5
+107,David Clark,60,M,HND,LAX,2023-10-23,First,Agency,2200,15
+108,Emma Lewis,29,F,DXB,LHR,2023-10-24,Economy,Website,550,2
+109,James White,41,M,CDG,ORD,2023-10-28,Business,App,1100,7
+110,Olivia Harris,32,F,JFK,LHR,2023-10-29,Economy,App,480,4
+111,William King,26,M,LAX,HND,2023-11-02,Economy,Website,500,1
+112,Sophia Wright,38,F,ORD,CDG,2023-11-05,Business,Agency,1300,6
+113,Benjamin Scott,55,M,SFO,JFK,2023-11-10,First,App,2100,10
+114,Mia Adams,31,F,LHR,DXB,2023-11-12,Economy,App,580,3
+115,Lucas Baker,27,M,DXB,LHR,2023-11-15,Economy,Website,620,2
